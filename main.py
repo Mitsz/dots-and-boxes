@@ -1,0 +1,3 @@
+import playerinterface
+
+playerinterface.PlayerInterface()
